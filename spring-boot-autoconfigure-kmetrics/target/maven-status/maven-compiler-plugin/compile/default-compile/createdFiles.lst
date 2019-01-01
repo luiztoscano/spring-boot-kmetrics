@@ -1,0 +1,4 @@
+org\kmetrics\KafkaConsumerMetrics.class
+org\kmetrics\KafkaMetricsAutoConfiguration.class
+org\kmetrics\KafkaProducerMetrics.class
+org\kmetrics\KafkaMetrics.class
