@@ -1,5 +1,5 @@
 # spring-boot-kmetrics
-Kafka metrics for Spring Boot Actuator
+Kafka Clients metrics for Spring Boot Actuator
 
 Kafka exposes almost all consumer and producer metrics through JMX, so this is a custom MeterBinder to expose these metrics. 
 
